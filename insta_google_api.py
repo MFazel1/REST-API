@@ -10,7 +10,7 @@ import ctypes
 #   check the last 5 pages of images that has taken in lake placid and open them in the web browser
 
 
-key ='2228213740.1fb234f.a87267e857be4f4f8e4ea0cee36cabaf' 
+key ='Token' 
 
 #Create a dictionary for use with requests - note name is payload - but this could any name
 payload = {"access_token":key}
